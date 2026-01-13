@@ -1,1 +1,4 @@
 python-dotenv
+azure-ai-textanalytics
+azure-identity
+azure-core
